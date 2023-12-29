@@ -1,3 +1,3 @@
-module github.com/ZZMarquis/gm
+module github.com/dcto/smx
 
 go 1.12
