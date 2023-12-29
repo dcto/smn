@@ -16,9 +16,9 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/ZZMarquis/gm/cryptobyte"
-	cryptobyte_asn1 "github.com/ZZMarquis/gm/cryptobyte/asn1"
-	"github.com/ZZMarquis/gm/sm2"
+	"github.com/dcto/smx/cryptobyte"
+	cryptobyte_asn1 "github.com/dcto/smx/cryptobyte/asn1"
+	"github.com/dcto/smx/sm2"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/hex"
 	"fmt"
-	"github.com/ZZMarquis/gm/util"
+	"github.com/dcto/smx/util"
 	"testing"
 )
 

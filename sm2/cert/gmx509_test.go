@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ZZMarquis/gm/sm2"
+	"github.com/dcto/smx/sm2"
 )
 
 func TestX500Name(t *testing.T) {

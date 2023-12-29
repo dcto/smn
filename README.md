@@ -121,6 +121,6 @@ func Decrypt(data []byte) ([]byte, error) {
 
 梧桐链: [gjfoc](github.com/tjfoc/gmsm/sm2)
 
-ZZMarquis: [ZZMarquis](github.com/ZZMarquis/gm/sm2)
+ZZMarquis: [ZZMarquis](github.com/dcto/smx/sm2)
 
 ZZMarquis版本修改，增加部份说明及招行Java接口 HEX密钥对实现。
